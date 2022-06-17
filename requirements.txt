@@ -1,4 +1,7 @@
 pytest
+jupyter
 numpy
 matplotlib
-scipy
+pandas
+ipympl
+scikit-learn
